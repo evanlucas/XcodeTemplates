@@ -32,7 +32,7 @@ else
 	echo "Coda template icons already exists..."
 fi 
 
-CODAZIP="http:#panic.com/coda/d/Coda%20Sample%20Plug-ins.zip"
+CODAZIP="http://panic.com/coda/d/Coda%20Sample%20Plug-ins.zip"
 
 echo "Fetching Coda Headers"
 if [[ ! -f "CodaPlugin.xctemplate/CodaPluginsController.h" ]]; then
